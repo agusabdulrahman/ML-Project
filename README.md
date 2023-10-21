@@ -7,9 +7,9 @@ This project is an exploration into the world of machine learning, covering a ra
 
 ## Key Features:
 
-Various machine learning example projects with relevant datasets.
-Well-structured and commented source code for easy comprehension.
-Guides and tutorials to assist users in getting started and understanding machine learning concepts.
+- Various machine learning example projects with relevant datasets.
+- Well-structured and commented source code for easy comprehension.
+- Guides and tutorials to assist users in getting started and understanding machine learning concepts.
 
 ## Objective:
 This project aims to provide valuable resources to those interested in understanding and applying machine learning in various domains. By accessing this project, you can expand your knowledge of machine learning and apply it to your own projects.
